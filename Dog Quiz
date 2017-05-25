@@ -2,11 +2,11 @@
     "Items": [
         {
             "name": "Yo-Yo",
-            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/yoyo-clipart-yo-yo-clip-art-1200_918.jpg"
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/yoyo-clipart-yo-yo-clip-art-1200_918.jpg"
         },
         {
             "name": "Bread",
-            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/bread.jpg"
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/bread.jpg"
         },
         {
             "first_name": "Snow",
