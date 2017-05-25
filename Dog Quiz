@@ -1,0 +1,32 @@
+{
+    "Items": [
+        {
+            "name": "Yo-Yo",
+            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/yoyo-clipart-yo-yo-clip-art-1200_918.jpg"
+        },
+        {
+            "name": "Bread",
+            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/bread.jpg"
+        },
+        {
+            "first_name": "Snow",
+            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/snowflake.jpg"
+        },
+        {
+            "first_name": "Tennis Ball",
+            "picture": "https://github.com/jeremylevenson/swipequiz-quiz1/blob/master/tennis-ball-m.jpg"
+        },
+        {
+            "first_name": "Ilan",
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/ilan.jpg"
+        },
+        {
+            "first_name": "Daniel",
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dan.png"
+        },
+        {
+            "first_name": "Celine",
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/celine.png"
+        }
+    ]
+}
