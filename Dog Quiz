@@ -15,6 +15,30 @@
         {
             "name": "Tennis Ball",
             "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/tennis-ball-m.jpg"
+        },
+        {
+            "name": "Stick",
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/stickdog.jpg"
+        },
+        {
+            "name": "Swimming",
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/swim.jpg"
+        },        
+        {
+            "name": "Cats",
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/cat.jpg"
+        },        
+        {
+            "name": "Reading",
+            "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/Reading.jpg"
+        },
+        {
+            "name": "Riding Along",
+            "picture": "https://raw.github.com/jeremylevenson/swipequiz-quiz1/master/sidecar.jpg"
+        },
+        {
+            "name": "City Livin'",
+            "picture": "https://raw.github.com/jeremylevenson/swipequiz-quiz1/master/city.jpg"
         }
     ]
 }
