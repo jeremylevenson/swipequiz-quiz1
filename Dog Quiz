@@ -9,11 +9,11 @@
             "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/bread.jpg"
         },
         {
-            "first_name": "Snow",
+            "name": "Snow",
             "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/snowflake.jpg"
         },
         {
-            "first_name": "Tennis Ball",
+            "name": "Tennis Ball",
             "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/tennis-ball-m.jpg"
         }
     ]
