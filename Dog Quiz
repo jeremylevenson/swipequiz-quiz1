@@ -15,18 +15,6 @@
         {
             "first_name": "Tennis Ball",
             "picture": "https://raw.githubusercontent.com/jeremylevenson/swipequiz-quiz1/master/tennis-ball-m.jpg"
-        },
-        {
-            "first_name": "Ilan",
-            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/ilan.jpg"
-        },
-        {
-            "first_name": "Daniel",
-            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dan.png"
-        },
-        {
-            "first_name": "Celine",
-            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/celine.png"
         }
     ]
 }
